@@ -1,4 +1,4 @@
-Visit my portfolio website: [rezajafar.com](https://rezajafar.com/?utm_source=github&utm_medium=readme)
+👋 Hey there! Explore my journey and projects at [rezajafar.com](https://rezajafar.com/?utm_source=github&utm_medium=readme)
 
-- ⚡ I’m currently working on [automatehub.dev](https://automatehub.dev)
-- 💬 Book a call with me [here](https://cal.com/meet-reza/meet?overlayCalendar=true)
+🚀 Currently channeling my fullstack energy into [automatehub.dev](https://automatehub.dev), crafting a smarter way to summarize YouTube videos.
+🗓️ Got ideas or just want to chat code? Schedule a call: [Book Here](https://cal.com/meet-reza/meet?overlayCalendar=true)
