@@ -1,5 +1,3 @@
-# Hey, I'm Reza 👋
-
 **Fullstack Engineer** · **AI Infrastructure Specialist** · **Former AWS SRE**
 
 I build intelligent tools that bridge the gap between AI experiments and production systems. Currently obsessed with autonomous agents, private AI infrastructure, and helping businesses reclaim time through automation.
